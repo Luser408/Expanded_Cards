@@ -8,10 +8,6 @@ Welcome to the Expanded Card Project! This project demonstrates a simple yet vis
 - **Multiple Images**: Display and navigate through multiple images within each card.
 - **Responsive Design**: The cards adjust their layout based on the screen size, ensuring a great user experience on both desktop and mobile devices.
 
-## Demo
-
-You can see a live demo of the project [here](https://Luser408.github.io/Expanded_Card/).
-
 ## Installation
 
 To get started with the Expanded Card Project locally, follow these steps:
